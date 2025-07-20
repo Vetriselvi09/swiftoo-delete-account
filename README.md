@@ -1,0 +1,1 @@
+# swiftoo-delete-account
